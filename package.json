@@ -1,0 +1,21 @@
+{
+  "name": "sweet-bite",
+  "version": "2.0.0",
+  "description": "Sweet Bite Bakery & Cafe - Online Menu, Cart & WhatsApp Ordering System with SQLite Database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "restaurant",
+    "bakery",
+    "cafe",
+    "menu",
+    "sqlite",
+    "whatsapp-ordering",
+    "tailwind"
+  ],
+  "author": "Sweet Bite Team",
+  "license": "ISC"
+}
